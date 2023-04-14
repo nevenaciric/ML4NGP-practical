@@ -6,10 +6,9 @@
 
 # Instructions for participants
 
-All of the materials for the practical can be found on the following link:
-<a href="https://github.com/nevenaciric/ML4NGP-practical">link</a>
+All of the materials for the practical are in this GitHub repository
 
-<u>1.step</u>
+<u>1.step</u></br>
 Open <b>Google Colab</b> - a Google product designed for writing and executing
 arbitrary Python code through the browser
 Link: https://colab.research.google.com/
