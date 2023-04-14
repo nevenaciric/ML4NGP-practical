@@ -14,8 +14,7 @@ arbitrary Python code through the browser</br>
 Link: https://colab.research.google.com/
 
 <ins>2.step</ins></br>
-Choose the <b>GitHub</b> option (in case of any pop up windows related to
-Colaboratory Authorization, choose 'Cancel')
+Choose the <b>GitHub</b> option. In case of any pop up windows related to Colaboratory Authorization, choose 'Cancel'.
 
 <ins>3.step</ins></br>
 Enter the following link to the materials template:
