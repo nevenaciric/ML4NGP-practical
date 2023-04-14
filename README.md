@@ -22,16 +22,16 @@ https://github.com/nevenaciric/ML4NGP-practical/blob/main/Disorder-order%20class
 This link is obtained by clicking on the corresponding Jupyter Notebook inside this GitHub repository and copying its URL.
 
 <ins>4.step</ins></br>
-Click the <b>Loop</b> (search) button
+Click the <b>Loop</b> (search) button.
 
 <ins>5.step</ins></br>
 Dowload dataset from <code>/data/DisProt_PDB_dataset.csv</code>
 
 <u>6.step</u></br>
-In Google Colab click on the <b>Files</b> icon in the Toolbar on left side of the window
+In Google Colab click on the <b>Files</b> icon in the Toolbar on left side of the window.
 
 <ins>7.step</ins></br>
-Click on the <b>Upload to session storage</b> icon inside the Files Toolbar
+Click on the <b>Upload to session storage</b> icon inside the Files Toolbar.
 
 <ins>8.step</ins></br>
 Navigate to the location of dowloaded dataset file <code>DisProt_PDB_dataset.csv</code>
