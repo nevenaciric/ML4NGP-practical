@@ -25,7 +25,7 @@ This link is obtained by clicking on the corresponding Jupyter Notebook inside t
 Click the <b>Loop</b> (search) button.
 
 <ins>5.step</ins></br>
-Dowload dataset from <code>/data/DisProt_PDB_dataset.csv</code>
+Dowload dataset from the following link: https://github.com/nevenaciric/ML4NGP-practical/blob/main/data/DisProt_PDB_dataset.csv
 
 <u>6.step</u></br>
 In Google Colab click on the <b>Files</b> icon in the Toolbar on left side of the window.
