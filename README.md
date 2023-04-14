@@ -6,18 +6,18 @@
 
 # Instructions for participants
 
-All of the materials for the practical are in this GitHub repository
+All of the materials for the Practical Session are in this GitHub repository.
 
-<u>1.step</u></br>
+<ins>1.step</ins></br>
 Open <b>Google Colab</b> - a Google product designed for writing and executing
 arbitrary Python code through the browser
 Link: https://colab.research.google.com/
 
-<u>2.step</u></br>
-Choose the GitHub option (in case of any pop up windows related to
+<ins>2.step</ins></br>
+Choose the <b>GitHub</b> option (in case of any pop up windows related to
 Colaboratory Authorization, choose ‘Cancel’)
 
-<u>3.step</u></br>
+<ins>3.step</ins></br>
 Enter the following link to the materials template:
 https://github.com/nevenaciric/ML4NGP-practical/blob/main/Disorder-o
 rder%20classification%20of%20protein%20regions%20-%20Template.
@@ -25,17 +25,17 @@ ipynb
 This link is obtained by clicking on the corresponding Jupyter Notebook
 in the initial GitHub repository
 
-<u>4.step</u></br>
+<ins>4.step</ins></br>
 Click the <b>Loop</b> (search) button
 
-<u>5.step</u></br>
+<ins>5.step</ins></br>
 Dowload dataset from <code>/data/DisProt_PDB_dataset.csv</code>
 
 <u>6.step</u></br>
 In Google Colab click on the <b>Files</b> icon in the Toolbar on left side of the
 window
 
-<u>7.step</u></br>
+<ins>7.step</ins></br>
 Click on the <b>Upload to session storage</b> icon inside the Files Toolbar
 
 <ins>8.step</ins></br>
