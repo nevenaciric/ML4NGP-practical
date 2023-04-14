@@ -10,7 +10,7 @@ All of the materials for the Practical Session are in this GitHub repository.
 
 <ins>1.step</ins></br>
 Open <b>Google Colab</b> - a Google product designed for writing and executing
-arbitrary Python code through the browser</b>
+arbitrary Python code through the browser</br>
 Link: https://colab.research.google.com/
 
 <ins>2.step</ins></br>
