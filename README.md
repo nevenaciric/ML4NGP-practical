@@ -17,8 +17,8 @@ Link: https://colab.research.google.com/
 Choose the <b>GitHub</b> option. In case of any pop up windows related to Colaboratory Authorization, choose 'Cancel'.
 
 <ins>3.step</ins></br>
-Enter the following link to the materials template:
-https://github.com/nevenaciric/ML4NGP-practical/blob/main/Disorder-order%20classification%20of%20protein%20regions%20-%20Template.ipynb
+Enter the following link to the materials template:</br>
+https://github.com/nevenaciric/ML4NGP-practical/blob/main/Disorder-order%20classification%20of%20protein%20regions%20-%20Template.ipynb</br>
 This link is obtained by clicking on the corresponding Jupyter Notebook inside this GitHub repository.
 
 <ins>4.step</ins></br>
